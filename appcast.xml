@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>GGKOF Updates</title>
-    <link>https://ggkof.lovable.app/appcast.xml</link>
-    <description>Official GGKOF update feed for Windows.</description>
-    <language>pt-BR</language>
+    <description>Signed GGKOF client updates</description>
+    <language>en</language>
+    <item>
+      <title>GGKOF 0.1.0-beta.2</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.2</sparkle:shortVersionString>
+      <pubDate>Sun, 13 Sep 2026 08:08:39 GMT</pubDate>
+      <enclosure url="https://github.com/doidddo-boop/ggkof-releases/releases/download/v0.1.0-beta.2/GGKOF-Setup-0.1.0-beta.2.exe"
+                 sparkle:edSignature="hFXz39rhbto6v5Uji1BppUIjTO76QpzhjZBNBduyP7dm2OwbATC5t1tsZPc6saZvhrzUhFG6EYxJxrRKontmDg=="
+                 sparkle:os="windows-x86"
+                 sparkle:installerArguments="/SILENT /SP- /NOICONS"
+                 length="23193518"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
