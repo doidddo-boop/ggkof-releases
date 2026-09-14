@@ -8,12 +8,13 @@
       <title>GGKOF 0.1.0-beta.12</title>
       <sparkle:version>12</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.12</sparkle:shortVersionString>
-      <pubDate>Mon, 14 Sep 2026 23:24:57 GMT</pubDate>
-      <enclosure url="https://github.com/doidddo-boop/ggkof-releases/releases/download/v0.1.0-beta.12/GGKOF-0.1.0-beta.12.zip"
-                 sparkle:edSignature="UwDkXp+7MOcx5wIs3TP1xUCAwryGCSGE5DyVt03cYjJXC1+FDrf13GwehN8Qgp+CI6CjdYHYrbEslALSdxX4Aw=="
+      <pubDate>Mon, 14 Sep 2026 23:37:00 GMT</pubDate>
+      <enclosure url="https://github.com/doidddo-boop/ggkof-releases/releases/download/v0.1.0-beta.12/GGKOF-Setup-0.1.0-beta.12.exe"
+                 sparkle:edSignature="d3endBo2OyWmDxhsgq60b/hjbXEqUsIZ+mwR1cwmG8SV4rxtKQXdhBcCWnkwBhZ8FJG1RS48u+OfTW1D4x7YBw=="
                  sparkle:os="windows-x86"
-                 length="26387706"
-                 type="application/zip" />
+                 sparkle:installerArguments="/SILENT /SP- /NOICONS"
+                 length="23295554"
+                 type="application/octet-stream" />
     </item>
   </channel>
 </rss>
