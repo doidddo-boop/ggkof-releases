@@ -5,14 +5,14 @@
     <description>Signed GGKOF client updates</description>
     <language>en</language>
     <item>
-      <title>GGKOF 0.1.0-beta.22</title>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>0.1.0-beta.22</sparkle:shortVersionString>
-      <pubDate>Thu, 17 Sep 2026 13:00:40 GMT</pubDate>
-      <enclosure url="https://github.com/doidddo-boop/ggkof-releases/releases/download/v0.1.0-beta.22/GGKOF-0.1.0-beta.22.zip"
-                 sparkle:edSignature="EARinABvWvX1Lf1aiJ9Jg/Jzt2pJ2j7d9ZwoGTQQ3c5PBeWDdLLnHSzPlz9sGOCnlH9drufXu6QjbRcrRxRTAA=="
+      <title>GGKOF 0.1.0-beta.23</title>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>0.1.0-beta.23</sparkle:shortVersionString>
+      <pubDate>Thu, 17 Sep 2026 16:17:15 GMT</pubDate>
+      <enclosure url="https://github.com/doidddo-boop/ggkof-releases/releases/download/v0.1.0-beta.23/GGKOF-0.1.0-beta.23.zip"
+                 sparkle:edSignature="iJF3qVYhhYQLtd2hcYY+9+64qEByzpE21f7gc+i2kgyrnLO4w4pCboGmvGLeoS7yGbQG0TH05FbMQ67gNCxDBw=="
                  sparkle:os="windows-x86"
-                 length="26390372"
+                 length="26389810"
                  type="application/zip" />
     </item>
   </channel>
