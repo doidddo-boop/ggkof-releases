@@ -6,13 +6,13 @@
     <language>en</language>
     <item>
       <title>GGKOF 0.1.0-beta.25</title>
-      <sparkle:version>25</sparkle:version>
+      <sparkle:version>26</sparkle:version>
       <sparkle:shortVersionString>0.1.0-beta.25</sparkle:shortVersionString>
-      <pubDate>Mon, 21 Sep 2026 06:10:23 GMT</pubDate>
+      <pubDate>Sun, 27 Sep 2026 17:15:29 GMT</pubDate>
       <enclosure url="https://github.com/doidddo-boop/ggkof-releases/releases/download/v0.1.0-beta.25/GGKOF-0.1.0-beta.25.zip"
-                 sparkle:edSignature="kYr65QDpYlkuicSj4XI2mkOzQVrmTcrLhNwgZZdw/Ur0JB9+1HUw+1YYRqyJXue1UNn1lgGxEJqUCnQpjk34Cg=="
+                 sparkle:edSignature="6apDqMv1IwirK+nwOarBmk+RiaVRUQwoNyzGuTtj2QflCA9NT84P6lq1x//Sxdt6CbVJiQzubdZ5kybdFF/sBA=="
                  sparkle:os="windows-x86"
-                 length="26431978"
+                 length="26444347"
                  type="application/zip" />
     </item>
   </channel>
